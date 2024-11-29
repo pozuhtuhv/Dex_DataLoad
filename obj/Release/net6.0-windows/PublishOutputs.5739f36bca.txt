@@ -1,0 +1,6 @@
+C:\Users\pozuhtuhv\Desktop\Dex_DataLoad\bin\Release\net6.0-windows\publish\Dex_DataLoad.exe
+C:\Users\pozuhtuhv\Desktop\Dex_DataLoad\bin\Release\net6.0-windows\publish\Dex_DataLoad.dll
+C:\Users\pozuhtuhv\Desktop\Dex_DataLoad\bin\Release\net6.0-windows\publish\Dex_DataLoad.deps.json
+C:\Users\pozuhtuhv\Desktop\Dex_DataLoad\bin\Release\net6.0-windows\publish\Dex_DataLoad.runtimeconfig.json
+C:\Users\pozuhtuhv\Desktop\Dex_DataLoad\bin\Release\net6.0-windows\publish\Dex_DataLoad.pdb
+C:\Users\pozuhtuhv\Desktop\Dex_DataLoad\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll
