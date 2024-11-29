@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pozuhtuhv\\Desktop\\new app\\new app.csproj",
+      "projectUniqueName": "C:\\Users\\pozuhtuhv\\Desktop\\Dex_Data_Load\\new app.csproj",
       "projectName": "new app",
-      "projectPath": "C:\\Users\\pozuhtuhv\\Desktop\\new app\\new app.csproj",
+      "projectPath": "C:\\Users\\pozuhtuhv\\Desktop\\Dex_Data_Load\\new app.csproj",
       "packagesPath": "C:\\Users\\pozuhtuhv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pozuhtuhv\\Desktop\\new app\\obj\\",
+      "outputPath": "C:\\Users\\pozuhtuhv\\Desktop\\Dex_Data_Load\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pozuhtuhv\\AppData\\Roaming\\NuGet\\NuGet.Config"
