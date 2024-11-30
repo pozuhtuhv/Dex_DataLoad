@@ -133,6 +133,8 @@ namespace WinFormsApp
          //
          // form
          //
+            this.MaximizeBox =  false;
+            this.MinimizeBox =  false;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Size = new System.Drawing.Size(488,244);
             this.Text =  "Dexscreener Auto Load";
