@@ -29,7 +29,7 @@ namespace WinFormsApp
             };
 
             // 타이머 초기화
-            timer = new System.Timers.Timer(5000); // 5초 간격 1000 = 1초
+            timer = new System.Timers.Timer(1000); // 5초 간격 1000 = 1초
             timer.Elapsed += async (s, e) => await TrackDataAsync(); // 반복적으로 데이터 가져오기
             timer.AutoReset = true;
         }
