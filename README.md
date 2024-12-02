@@ -1,6 +1,6 @@
 # Dex_DataLoad
 
-This project uses the 'DexScreen API'
+![requirements](requirements.png)
 
 <div align='center'>
 <img src='image.png'>
