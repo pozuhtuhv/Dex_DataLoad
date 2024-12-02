@@ -1,12 +1,10 @@
 # Dex_Data_AutoReLoad
 
-![requirements](requirements.png)
-
 <div align='center'>
-<img src='image.png'>
+<img src='requirements.png'><br>
+<img src='image.png'><br>
+Releases : <a href = 'https://github.com/pozuhtuhv/Dex_DataLoad/releases/tag/v0.1'>Download</a>
 </div>
-
-Download : https://github.com/pozuhtuhv/Dex_DataLoad/releases/tag/v0.1
 
 0. **Code Compile**  
 
