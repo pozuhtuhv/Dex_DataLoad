@@ -6,6 +6,8 @@
 <img src='image.png'>
 </div>
 
+Download : https://github.com/pozuhtuhv/Dex_DataLoad/releases/tag/v0.1
+
 0. **Code Compile**  
 
 ```bash
